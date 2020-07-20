@@ -30,7 +30,8 @@ Here are some ideas to get you started:
 <img align="left" alt="Kayley Seow Kaggle" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/kaggle.svg" />
 </a>  
 
-<br>
+<br>  
+
 
 ```java  
 public class aboutMe{  
