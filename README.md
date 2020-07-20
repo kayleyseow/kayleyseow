@@ -37,10 +37,11 @@ Here are some ideas to get you started:
 public class aboutMe{  
   public static void main(String[] args) {  
     String name = "Kayley Seow";
-    double age = 17.0;
     String[] whoIAm = {"coder", "engineer", "musician", "feminist", "student"};
+    double age = 17.0;
+    String pronouns = "she/her";
     boolean tabs = true;
-    int fucksGiven = 0;
   }  
 }  
 ```  
+Some of my work is in private repositories, but feel free to look around!   
