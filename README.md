@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://github.com/kayleyseow">
+<!---<a href="https://github.com/kayleyseow">
 <img align="left" alt="Kayley Seow Github" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/github.svg" />
 </a>
 <a href="https://www.linkedin.com/in/kayleyseow/">
@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 </a>  
 
 <br>  
-
+-->
 
 ```java  
 public class aboutMe{  
