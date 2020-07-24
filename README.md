@@ -15,9 +15,6 @@ Here are some ideas to get you started:
 -->
  
 <p>
-  <a href="https://github.com/kayleyseow">
-    <img align="left" alt="Kayley Seow Github" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/github.svg" />
-  </a>
   <a href="https://www.linkedin.com/in/kayleyseow/">
     <img align="left" alt="Kayley Seow LinkedIN" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
   </a>
@@ -27,14 +24,17 @@ Here are some ideas to get you started:
   <a href="https://repl.it/@kayleyseow">
     <img align="left" alt="Kayley Seow repl.it" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/repl-dot-it.svg" />
   </a>
+  <a href="https://codepen.io/kayleyseow">
+    <img align="left" alt="Kayley Seow Codepen" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/codepen.svg" />
+  </a>
+  <a href="https://glitch.com/@kayleyseow">
+    <img align="left" alt="Kayley Seow Glitch" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/glitch.svg" />
+  </a>
   <a href="https://www.kaggle.com/kayley">
     <img align="left" alt="Kayley Seow Kaggle" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/kaggle.svg" />
   </a>
   <a href="https://leetcode.com/kayleyseow/">
     <img align="left" alt="Kayley Seow LeetCode" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/leetcode.svg" />
-  </a>
-  <a href="https://glitch.com/@kayleyseow">
-    <img align="left" alt="Kayley Seow Glitch" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/glitch.svg" />
   </a>
 </p>
 </br>  
