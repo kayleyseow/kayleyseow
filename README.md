@@ -33,9 +33,9 @@ Here are some ideas to get you started:
   <a href="https://www.kaggle.com/kayley">
     <img align="left" alt="Kayley Seow Kaggle" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/kaggle.svg" />
   </a>
-  <a href="https://leetcode.com/kayleyseow/">
+  <!--- <a href="https://leetcode.com/kayleyseow/">
     <img align="left" alt="Kayley Seow LeetCode" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/leetcode.svg" />
-  </a>
+  </a> --->
 </p>
 </br>  
 </br>  
@@ -46,7 +46,7 @@ public class aboutMe{
     String name = "Kayley Seow";
     String[] whoIAm = {"coder", "engineer", "musician", "feminist", "student"};
     double age = 17.0;
-    String pronouns = "she/her";
+    String pronouns = "she/her/hers";
     boolean tabs = true;
   }  
 }  
