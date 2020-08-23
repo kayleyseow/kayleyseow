@@ -51,4 +51,4 @@ public class aboutMe{
   }  
 }  
 ```  
-Some of my work is in private repositories, but feel free to look around!   
+Some of my work is in private repositories, but feel free to look around :)   
