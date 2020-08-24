@@ -1,4 +1,4 @@
-## 👋🏻 Hello! Nice to meet you, I'm Kayley 
+## 👋🏻 Hello! Nice to meet you, I'm Kayley. 
 <!--
 **kayleyseow/kayleyseow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
