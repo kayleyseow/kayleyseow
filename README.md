@@ -45,7 +45,7 @@ public class aboutMe{
   public static void main(String[] args) {  
     String name = "Kayley Seow";
     String[] whoIAm = {"coder", "engineer", "musician", "feminist", "student"};
-    double age = 17.0;
+    double grade = 12.0;
     String pronouns = "she/her/hers";
     boolean tabs = true;
   }  
