@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
- 
+<!---  
 <p>
   <a href="https://www.linkedin.com/in/kayleyseow/">
     <img align="left" alt="Kayley Seow LinkedIN" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -33,14 +33,16 @@ Here are some ideas to get you started:
   <a href="https://www.kaggle.com/kayley">
     <img align="left" alt="Kayley Seow Kaggle" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/kaggle.svg" />
   </a>
-  <!--- <a href="https://leetcode.com/kayleyseow/">
+  <a href="https://leetcode.com/kayleyseow/">
     <img align="left" alt="Kayley Seow LeetCode" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/leetcode.svg" />
-  </a> --->
+  </a> 
 </p>
 </br>  
 </br>  
-  
+--->  
+#### For my programmer friends:  
 ```java  
+//guess the language! (hint: it's the first real programming language I learned)
 public class aboutMe{  
   public static void main(String[] args) {  
     String name = "Kayley Seow";
