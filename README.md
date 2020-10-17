@@ -1,4 +1,4 @@
-## 👋🏻 Hello! Nice to meet you, I'm Kayley!  
+### 👋🏻 Hello! Nice to meet you!  
 <!--
 **kayleyseow/kayleyseow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<!---  
+<!---  Row of icons
 <p>
   <a href="https://www.linkedin.com/in/kayleyseow/">
     <img align="left" alt="Kayley Seow LinkedIN" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -53,4 +53,7 @@ public class aboutMe{
   }  
 }  
 ```  
-Some of my work is in private repositories, but feel free to look around!  
+#### A Translation:  
+I'm Kayley, a high school senior who is a programmer, engineer at heart, musician (flutist/pianist, in fact!), avid feminist, a lifelong learner but most of all, a proclaimed jack of all trades, master of none—after being introduced to programming about a year ago, I brought it upon myself to learn as much as I could about the world of CS. My Github is living proof, almost every line of code I’ve ever written is saved here. My journey is just beginning, and I hope you’ll be able to join me. 
+
+If you want to reach me, I'm on the Hack Club slack and Kaggle as ```kayley```, Twitter as ```kayleyseow_```, and almost everywhere else as ```kayleyseow```. 
