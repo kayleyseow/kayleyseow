@@ -39,8 +39,8 @@ Here are some ideas to get you started:
 </p>
 </br>  
 </br>  
---->  
-#### For my programmer friends:  
+ 
+#### For my programmer friends:  ---> 
 ```java  
 //guess the language! (hint: it's the first real programming language I learned)
 public class aboutMe{  
@@ -53,7 +53,7 @@ public class aboutMe{
   }  
 }  
 ```  
-#### A Translation:  
-I'm Kayley, a high school senior who is a programmer, engineer at heart, musician (flutist/pianist, in fact!), avid feminist, a lifelong learner but most of all, a proclaimed jack of all trades, master of none—after being introduced to programming about a year ago, I brought it upon myself to learn as much as I could about the world of CS. My Github is living proof, almost every line of code I’ve ever written is saved here. My journey is just beginning, and I hope you’ll be able to join me. 
+**A Translation:**  
+I'm Kayley, a high school senior, a self-proclaimed jack of all trades, master of none. After being introduced to java in [APCSA](https://github.com/kayleyseow/APCSA) about a year ago, I brought it upon myself to learn as much as I could about programming—so far, I've self taught myself C/C++ for an [Arduino project](https://github.com/kayleyseow/Digital-Ruler), learned [HTML/CSS/JS](https://github.com/kayleyseow/SHEQUALITY) after being selected for [Twitter’s SIP Cohort](https://twitter.com/womeng/status/1296530930463580161), taken [SQL](https://github.com/kayleyseow/SQL-for-Data-Science) and [MATLAB](https://github.com/kayleyseow/Introduction-to-Programming-with-MATLAB) courses for fun, joined [Hack Club](https://github.com/hackclub), and even discovered [React.js](https://codepen.io/kayleyseow/pen/QWyzBWd) with my amazing mentor. My Github is living proof, as almost every line of code I’ve ever written is saved here. My journey is just beginning, and I hope you’ll be able to join me. 
 
-If you want to reach me, I'm on the Hack Club slack and Kaggle as ```kayley```, Twitter as ```kayleyseow_```, and almost everywhere else as ```kayleyseow```. 
+If you want to reach me, I'm on Twitter at ```kayleyseow_```, the Hack Club slack and Kaggle as ```kayley```, and basically everywhere else as ```kayleyseow```. Some of my repos are private, but feel free to look around!
