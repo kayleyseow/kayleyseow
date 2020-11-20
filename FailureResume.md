@@ -12,11 +12,25 @@
 - Didn't get the SWENext Local Innovator Award 
 - Rejected from the Girls Who Code Scholarship
 - Rejected from helping the UC Berkeley Tutoring Project
+  - I didn't have enough math background compared to others, but I want to apply again in the future, it's a great project.
 - Rejected from AIHacks II Team
-- Rejected from Generation She User Research + Strategy Intern position
+- Rejected from GenShe User Research + Strategy Intern position
 - Deferred → Rejected from CodeLabs Advanced Track internship
-- Rejected from Cornell CURIE Academy (This one hurt a lot)
+- Rejected from Cornell CURIE Academy
 - Missed the deadline to apply to Kode with Klossy
 - Not offered a space at Stanford CS106A Code-in-place
 - Rejected from position as Director of Outreach and Finance at TARC.
-- Didn’t complete the Superposition hackathon project
+  - I know this isn't my fault entirely, but I missed out on opportunity which is why it belongs here.
+  - Consequently quit the quite literal "boys club" because of the enviroment.
+- Didn’t complete the Superposition IV hackathon project.
+  - Learned that I'm not into gamedev, but who else can say they spent 24 hours at Uber?
+### 2019:
+- Rejected as editor for Exit Zine but offered the position as staff writer
+  - As a senior with Exit Zine, I am now an officer and senior editor.
+- Rejected as literary editor at Phoenix
+  - Made me even more inspired to put even more into my work at Exit Zine.
+- Rejected as Secretary for California Scholarship Federation
+  - Current CSF Treasurer and Webmaster.
+- Rejected as Treasurer, Publicity for Girls Who Code club
+- Failed an AP Test
+  - Studied my ass off the next year and got a 5.
